@@ -1,4 +1,5 @@
+# Dependecies
 node_modules
 
-# environment variables
+# Environment 
 .env
